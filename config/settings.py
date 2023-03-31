@@ -45,7 +45,7 @@ INSTALLED_APPS = [
     'users',
 
     'rest_framework',
-    'rest_framefork_simplejwt',
+    'rest_framework_simplejwt',
 ]
 
 MIDDLEWARE = [
